@@ -59,6 +59,10 @@ header{
 	background: var(--text-color);
 	color: #fff;
 }
+.shop{
+	position: relative;
+	left: -50px;
+}
 .icons{
 	display: inline-block;
 }
