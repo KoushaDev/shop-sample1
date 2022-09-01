@@ -97,9 +97,7 @@ header{
   
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {display: block;}
-  
-  /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {background-color: #e2e2e2;}
+
 .shop{
 	position: relative;
 	left: -15px;
