@@ -179,6 +179,9 @@ section{
 	padding: 80px 17%;
 	background: var(--text-color);
 }
+.textcol{
+	color: #fff;
+}
 .main-contact{
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, auto));
