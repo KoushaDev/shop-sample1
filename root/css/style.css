@@ -55,14 +55,6 @@ header{
 	margin: 0 10px;
 	transition: all .40s ease;
 }
-.searchbar input[type=text] {
-	float: right;
-	padding: 6px;
-	border: none;
-	margin-bottom: 8px;
-	margin-left: 16px;
-	font-size: 17px;
-  }
 .navbar a:hover{
 	background: var(--text-color);
 	color: #fff;
