@@ -62,6 +62,7 @@ header{
 .shop{
 	position: relative;
 	left: -15px;
+	bottom: -30px;
 }
 .icons{
 	display: inline-block;
