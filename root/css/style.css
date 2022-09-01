@@ -55,6 +55,10 @@ header{
 	margin: 0 10px;
 	transition: all .40s ease;
 }
+.searchbar{
+	position: relative;
+	bottom: -50px;
+}
 .searchbar input[type=text] {
 	float: right;
 	padding: 6px;
