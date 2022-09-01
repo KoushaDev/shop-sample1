@@ -118,7 +118,7 @@ header{
 {
 	border: 0px;
 	width: 60%;
-	padding: 10px 5px;
+	padding: 5px 10px;
 }
 
 .search input[type="text"]:focus
