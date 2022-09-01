@@ -59,23 +59,6 @@ header{
 	background: var(--text-color);
 	color: #fff;
 }
-.dropdown-menu{
-	display: none;
-	position: absolute;
-	background-color: #f9f9f9;
-	min-width: 158px;
-	z-index: 1;
-}
-.dropdown-menu a:hover{
-	background-color: #000;
-	color: #fff;
-}
-.menu-button:hover .dropdown-menu{
-	display: block;
-}
-.menu-button:hover{
-	background-color: #fff;
-}
 .shop{
 	position: relative;
 	left: -15px;
