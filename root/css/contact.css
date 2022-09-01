@@ -182,7 +182,7 @@ section{
 }
 .about-content h2{
 	font-size: var(--main-font);
-	margin-bottom: 30px;
+	margin-bottom: 15px;
 }
 .about-content p{
 	max-width: 600px;
