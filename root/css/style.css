@@ -110,7 +110,8 @@ header{
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	position: relative;
-	bottom: -200px;
+	bottom: -120px;
+	left: -200px;
 }
 
 .search input[type="text"]
