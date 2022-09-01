@@ -62,11 +62,8 @@ header{
 .dropbtn {
 	background-color: #ffffff;
 	color: rgb(0, 0, 0);
-	padding: 16px;
 	font-size: 16px;
 	border: none;
-	position: relative;
-	top: -20px;
   }
   .dropdown {
 	position: relative;
