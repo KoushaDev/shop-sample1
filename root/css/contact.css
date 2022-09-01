@@ -160,8 +160,8 @@ section{
   .contact-form-btn{
     float: right;
     border: 0;
-    background: #fff;
-    color: #000;
+    background: #000;
+    color: #fff;
     padding: 12px 50px;
     border-radius: 20px;
     cursor: pointer;
