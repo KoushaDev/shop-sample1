@@ -133,12 +133,12 @@ header{
 	background-color: #CF5C3F;
 	color: #fff;
 	float: right;
-	padding: 10px;
+	padding: 2px;
 	border-radius: 5px;
-	-moz-border-radius-top-right: 2px;
-	-webkit-border-radius-top-right: 2px;
-	-moz-border-radius-bottom-right: 2px;
-	-webkit-border-radius-bottom-right: 2px;
+	-moz-border-radius-top-right: 5px;
+	-webkit-border-radius-top-right: 5px;
+	-moz-border-radius-bottom-right: 5px;
+	-webkit-border-radius-bottom-right: 5px;
         cursor:pointer;
 }
 
