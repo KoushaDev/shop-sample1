@@ -57,8 +57,8 @@ header{
 }
 .searchbar{
 	position: relative;
-	bottom: -70px;
-	left: -80px;
+	bottom: -77px;
+	left: -250px;
 }
 .searchbar input[type=text] {
 	float: right;
