@@ -98,14 +98,14 @@ header{
     position: relative;
     width: 50%;
     margin-top: 400px;
-	margin-bottom: -20px;
+	margin-bottom: -40px;
   }
   .right-column1 {
     position: relative;
     width: 45%;
 	height: 40%;
     margin-top: 400px;
-	margin-bottom: -20px;
+	margin-bottom: -50px;
 	right: -200px;
 	top: -250px;
   }
