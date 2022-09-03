@@ -85,7 +85,6 @@ header{
 	border-radius: 0.5em;
   }
   .dropdown:hover .dropdown-content {display: block;}
-/* Basic Styling */
 
   .container1 {
     max-width: 1200px;
@@ -93,7 +92,6 @@ header{
     padding: 15px;
     display: flex;
   }
-/* Columns */
 .left-column1 {
     position: relative;
 	top: -30px;
@@ -110,7 +108,6 @@ header{
 	right: -200px;
 	top: -250px;
   }
-  /* Left Column */
 .left-column1 img {
     width: 100%;
     position: relative;
@@ -121,7 +118,6 @@ header{
   .left-column1 img.active {
     opacity: 1;
   }
-  /* Product Description */
 .product-description1 {
     border-bottom: 1px solid #E1E8EE;
     margin-bottom: 20px;
@@ -151,7 +147,6 @@ header{
 	position: relative;
 	bottom: -35px;
   }
-  /* Product Price */
 .product-price1 {
     display: flex;
     align-items: center;
@@ -198,7 +193,7 @@ header{
     .left-column1 img {
       width: 300px;
       right: 0;
-      top: -65px;
+      top: -100px;
       left: initial;
     }
   }
