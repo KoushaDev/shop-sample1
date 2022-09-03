@@ -204,11 +204,11 @@ header{
 	  width: 46vh;
 	  height: 46vh;
       top: -290px;
-	  left: -10px;
+	  left: -20px;
     }
 	.right-column1{
 		position: relative;
-		left: -340px;
+		left: -370px;
 		top: 40px;
 		margin-bottom: 225px;
 	}
