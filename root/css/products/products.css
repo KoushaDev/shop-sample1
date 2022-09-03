@@ -149,14 +149,14 @@ header{
     line-height: 24px;
 	font-style: bold;
 	position: relative;
-	bottom: -25px;
+	bottom: -35px;
   }
   /* Product Price */
 .product-price1 {
     display: flex;
     align-items: center;
 	position: relative;
-	bottom: -25px;
+	bottom: -40px;
   }
    
   .product-price1 span {
@@ -176,7 +176,7 @@ header{
     padding: 12px 30px;
     transition: all .5s;
 	position: relative;
-	right: -25px;
+	right: -40px;
   }
   .cart-btn1:hover {
     background-color: #2b2b2b;
