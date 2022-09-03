@@ -86,12 +86,7 @@ header{
   }
   .dropdown:hover .dropdown-content {display: block;}
 /* Basic Styling */
-html, body {
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    font-family: 'Roboto', sans-serif;
-  }
+
   .container1 {
     max-width: 1200px;
     margin: 0 auto;
