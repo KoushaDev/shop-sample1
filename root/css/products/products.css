@@ -206,7 +206,8 @@ header{
 	  right: -10px;
     }
 	.right-column1{
-		left: -300px;
+		left: -330px;
+		margin-bottom: 100px;
 	}
   }
 .about{
