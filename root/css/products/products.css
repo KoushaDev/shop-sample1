@@ -200,10 +200,10 @@ header{
    
   @media (max-width: 535px) {
     .left-column1 img {
-	  width: 31vh;
-	  height: 30vh;
+	  width: 39vh;
+	  height: 39vh;
       top: -325px;
-	  right: -52px;
+	  right: -47px;
     }
   }
 .about{
