@@ -98,13 +98,13 @@ header{
     position: relative;
     width: 50%;
     margin-top: 400px;
-    margin-bottom: 400px;
+    margin-bottom: 300spx;
   }
   .right-column1 {
     position: relative;
     width: 35%;
     margin-top: 400px;
-    margin-bottom: 400px;
+    margin-bottom: 300px;
   }
   /* Left Column */
 .left-column1 img {
