@@ -113,8 +113,8 @@ header{
 .left-column1 img {
     width: 100%;
     position: relative;
-    top: -193px;
-	height: 40vh;
+    top: -205px;
+	height: 80vh;
     transition: all 0.3s ease;
   }
   .left-column1 img.active {
