@@ -176,6 +176,8 @@ header{
     transition: all .5s;
 	position: relative;
 	right: -40px;
+	bottom: -40px;
+	width: 20vh;
   }
   .cart-btn1:hover {
     background-color: #2b2b2b;
