@@ -214,7 +214,8 @@ header{
 	}
 	.cart-btn1{
 		position: relative;
-		left: -30px;
+		width: 20vh;
+		text-align: center;
 	}
   }
 .about{
