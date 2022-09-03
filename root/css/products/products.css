@@ -98,7 +98,7 @@ header{
     position: relative;
     width: 50%;
     margin-top: 400px;
-    margin-bottom: 225px;
+    margin-bottom: 150px;
   }
   .right-column1 {
     position: relative;
@@ -107,7 +107,7 @@ header{
     margin-top: 400px;
     margin-bottom: 225px;
 	right: -200px;
-	top: -250px;
+	top: -150px;
   }
   /* Left Column */
 .left-column1 img {
