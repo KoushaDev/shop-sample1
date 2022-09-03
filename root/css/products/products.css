@@ -98,15 +98,15 @@ header{
     position: relative;
     width: 50%;
     margin-top: 400px;
-    margin-bottom: 300px;
+    margin-bottom: 225px;
   }
   .right-column1 {
     position: relative;
     width: 45%;
 	height: 40%;
     margin-top: 400px;
-    margin-bottom: 300px;
-	right: -100px;
+    margin-bottom: 225px;
+	right: -200px;
   }
   /* Left Column */
 .left-column1 img {
