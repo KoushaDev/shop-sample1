@@ -200,14 +200,17 @@ header{
    
   @media (max-width: 535px) {
     .left-column1 img {
+		position: relative;
 	  width: 39vh;
 	  height: 39vh;
       top: -325px;
 	  right: -10px;
     }
 	.right-column1{
+		position: relative;
 		left: -330px;
-		margin-bottom: 100px;
+		bottom: -200px;
+		margin-bottom: 300px;
 	}
   }
 .about{
