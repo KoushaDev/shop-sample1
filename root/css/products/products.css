@@ -99,7 +99,7 @@ header{
 	top: -30px;
     width: 50%;
     margin-top: 400px;
-	margin-bottom: -60px;
+	margin-bottom: -90px;
   }
   .right-column1 {
     position: relative;
@@ -115,7 +115,7 @@ header{
     width: 100%;
     position: relative;
     top: -205px;
-	height: 65vh;
+	height: 57vh;
     transition: all 0.3s ease;
   }
   .left-column1 img.active {
