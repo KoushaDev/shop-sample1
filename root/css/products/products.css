@@ -160,16 +160,18 @@ header{
    
   .cart-btn1 {
     display: inline-block;
-    background-color: #7DC855;
+    background-color: #000;
     border-radius: 6px;
     font-size: 16px;
     color: #FFFFFF;
     text-decoration: none;
     padding: 12px 30px;
     transition: all .5s;
+	position: relative;
+	right: -35px;
   }
   .cart-btn1:hover {
-    background-color: #64af3d;
+    background-color: #2b2b2b;
   }
   /* Responsive */
 @media (max-width: 940px) {
