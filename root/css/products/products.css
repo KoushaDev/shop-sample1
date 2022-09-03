@@ -96,6 +96,7 @@ header{
 /* Columns */
 .left-column1 {
     position: relative;
+	top: -30px;
     width: 50%;
     margin-top: 400px;
 	margin-bottom: -40px;
