@@ -201,9 +201,9 @@ header{
   @media (max-width: 535px) {
     .left-column1 img {
 		position: relative;
-	  width: 39vh;
-	  height: 39vh;
-      top: -325px;
+	  width: 46vh;
+	  height: 46vh;
+      top: -260px;
 	  right: -10px;
     }
 	.right-column1{
