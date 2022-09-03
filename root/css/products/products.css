@@ -200,7 +200,7 @@ header{
    
   @media (max-width: 535px) {
     .left-column1 img {
-      width: 30vh;
+      width: 55vh;
       top: -340px;
     }
   }
