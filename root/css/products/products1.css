@@ -96,13 +96,13 @@ header{
 /* Columns */
 .left-column1 {
     position: relative;
-    width: 65%;
-    height: 45%;
+    width: 50%;
+    margin-top: 150px;
+    margin-bottom: 150px;
   }
   .right-column1 {
     position: relative;
     width: 35%;
-    height: 45%;
     margin-top: 150px;
     margin-bottom: 150px;
   }
