@@ -214,6 +214,7 @@ header{
 	}
 	.cart-btn1{
 		position: relative;
+		left: -26;
 		width: 50vh;
 		text-align: center;
 	}
