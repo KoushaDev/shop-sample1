@@ -97,14 +97,14 @@ header{
 .left-column1 {
     position: relative;
     width: 50%;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 400px;
+    margin-bottom: 400px;
   }
   .right-column1 {
     position: relative;
     width: 35%;
-    margin-top: 150px;
-    margin-bottom: 150px;
+    margin-top: 400px;
+    margin-bottom: 400px;
   }
   /* Left Column */
 .left-column1 img {
