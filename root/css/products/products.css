@@ -193,7 +193,7 @@ header{
     .left-column1 img {
       width: 300px;
       right: 0;
-      top: -250px;
+      top: -90px;
       left: initial;
     }
   }
@@ -201,7 +201,7 @@ header{
   @media (max-width: 535px) {
     .left-column1 img {
       width: 220px;
-      top: -85px;
+      top: -250px;
     }
   }
 .about{
