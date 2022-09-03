@@ -205,6 +205,9 @@ header{
       top: -325px;
 	  right: -10px;
     }
+	.right-column1{
+		left: -200px;
+	}
   }
 .about{
 	background: #f7f6f6;
