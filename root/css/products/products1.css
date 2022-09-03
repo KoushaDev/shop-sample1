@@ -95,11 +95,12 @@ header{
   }
 /* Columns */
 .left-column1 {
+    position: relative;
     width: 65%;
     height: 45%;
-    position: relative;
   }
   .right-column1 {
+    position: relative;
     width: 35%;
     height: 45%;
     margin-top: 60px;
