@@ -189,7 +189,10 @@ header{
     .right-column1 {
       width: 100%;
     }
-   
+    .right-column1{
+		position: relative;
+		right: -50px;
+	}
     .left-column1 img {
       width: 300px;
       right: 0;
