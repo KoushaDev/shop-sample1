@@ -219,11 +219,7 @@ header{
 		text-align: center;
 	}
   }
-  @media (max-width: 375px) {
-	.right-column1{
-		right: -100px;
-	}
-  }
+  
 
 .about{
 	background: #f7f6f6;
