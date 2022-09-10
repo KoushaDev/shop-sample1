@@ -221,7 +221,7 @@ header{
   }
   @media only screen and (-webkit-min-device-pixel-ratio: 2) {
 	.right-column1{
-		right: -50px;
+		right: -300px;
 	}
 }
 
