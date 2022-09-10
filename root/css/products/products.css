@@ -219,12 +219,6 @@ header{
 		text-align: center;
 	}
   }
-  @media only screen and (min-width: 375px) {
-	.right-column1{
-		position: relative;
-		right: -100px;
-	}
-  }
 
 .about{
 	background: #f7f6f6;
