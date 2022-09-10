@@ -219,7 +219,7 @@ header{
 		text-align: center;
 	}
   }
-  @media (max-width: 1334px) {
+  @media only screen and (min-width: 375px) {
 	.right-column1{
 		right: -100px;
 	}
