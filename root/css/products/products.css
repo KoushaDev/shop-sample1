@@ -219,6 +219,12 @@ header{
 		text-align: center;
 	}
   }
+  @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+	.right-column1{
+		right: -50px;
+	}
+}
+
 .about{
 	background: #f7f6f6;
 	display: flex;
