@@ -219,11 +219,11 @@ header{
 		text-align: center;
 	}
   }
-  @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  @media (max-width: 750px) {
 	.right-column1{
-		right: -300px;
+		right: -100px;
 	}
-}
+  }
 
 .about{
 	background: #f7f6f6;
