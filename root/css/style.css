@@ -201,33 +201,6 @@ section{
 .contact-content li a:hover{
 	transform: translateX(-10px);
 }
-.action form{
-	text-align: center;
-}
-.action form input[type="email"]{
-	width: 460px;
-	max-width: 100%;
-	padding: 12px 15px;
-	background: #515151;
-	color: var(--bg-color);
-	border: none;
-	outline: none;
-	margin: 0px 10px 20px 0px;
-	font-size: 16px;
-	font-weight: 600;
-}
-
-.action form input[type="submit"]{
-	padding: 10px 35px;
-	background: var(--bg-color);
-	color: var(--text-color);
-	border: none;
-	outline: none;
-	margin: 0px 10px 20px 0px;
-	font-size: 16px;
-	font-weight: 600;
-	cursor: pointer;
-}
 
 .last{
 	text-align: center;
