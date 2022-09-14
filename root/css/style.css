@@ -217,17 +217,6 @@ section{
 	font-weight: 600;
 }
 
-.action form input[type="submit"]{
-	padding: 10px 35px;
-	background: var(--bg-color);
-	color: var(--text-color);
-	border: none;
-	outline: none;
-	margin: 0px 10px 20px 0px;
-	font-size: 16px;
-	font-weight: 600;
-	cursor: pointer;
-}
 .last{
 	text-align: center;
 	padding: 17px;
